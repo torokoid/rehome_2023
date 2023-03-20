@@ -124,13 +124,13 @@ width: 800px;
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023/03/15 リフォーム見積もり !!!</marquee></span></h1>	
 	
 
-<iframe src="https://github.com/torokoid/rehome_2023/blob/main/20230320_001.pdf" width="100%" height="100%"></iframe>
+<iframe src="https://torokoid.github.io/rehome_2023/20230320_001.pdf" width="100%" height="100%"></iframe>
 
-<iframe src="https://github.com/torokoid/rehome_2023/blob/main/20230320_002.pdf" width="100%" height="100%"></iframe>
+<iframe src="https://torokoid.github.io/rehome_2023/20230320_002.pdf" width="100%" height="100%"></iframe>
 
-<iframe src="https://github.com/torokoid/rehome_2023/blob/main/20230320_003.pdf" width="100%" height="100%"></iframe>
+<iframe src="https://torokoid.github.io/rehome_2023/20230320_003.pdf" width="100%" height="100%"></iframe>
 
-<iframe src="https://github.com/torokoid/rehome_2023/blob/main/20230320_004.pdf" width="100%" height="100%"></iframe>
+<iframe src="https://torokoid.github.io/rehome_2023/20230320_004.pdf" width="100%" height="100%"></iframe>
 
 	
 	
