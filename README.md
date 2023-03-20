@@ -121,7 +121,7 @@ width: 800px;
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2023/03/15 リフォーム見積もり !!!</marquee></span></h1>	
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2023/03/04 リフォーム見積もり !!!</marquee></span></h1>	
 	
 <p>東方ハウジング、鈴木さん</p>
 <iframe src="https://torokoid.github.io/rehome_2023/20230320_002.pdf"></iframe>
