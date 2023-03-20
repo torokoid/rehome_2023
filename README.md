@@ -124,21 +124,14 @@ width: 800px;
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023/03/15 リフォーム見積もり !!!</marquee></span></h1>	
 	
 
-<a href="20230320_001.pdf" data-lightbox="abc"><img src="20230320_001.pdf" alt="サンプル画像" width="900" /></a>
-<a href="20230320_002.pdf" data-lightbox="abc"><img src="20230320_002.pdf" alt="サンプル画像" width="900" /></a>
+<iframe src="https://github.com/torokoid/rehome_2023/blob/main/20230320_001.pdf" width="100%" height="100%"></iframe>
 
-<p>要点がわかる1分編</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aes0Y9S9jYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-<p>詳しくわかる6分編</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fFobRIVXjrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-<p>U字工事がLRTを紹介！</p>	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdTb-WtER70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br><br><br>
+<iframe src="https://github.com/torokoid/rehome_2023/blob/main/20230320_002.pdf" width="100%" height="100%"></iframe>
 
-<a href="20230320_003.pdf" data-lightbox="abc"><img src="20230320_003.pdf" alt="サンプル画像" width="900" /></a>
-<a href="20230320_004.pdf" data-lightbox="abc"><img src="20230320_004.pdf" alt="サンプル画像" width="900" /></a>
+<iframe src="https://github.com/torokoid/rehome_2023/blob/main/20230320_003.pdf" width="100%" height="100%"></iframe>
+
+<iframe src="https://github.com/torokoid/rehome_2023/blob/main/20230320_004.pdf" width="100%" height="100%"></iframe>
+
 	
 	
 
