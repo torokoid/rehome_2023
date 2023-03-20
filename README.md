@@ -121,11 +121,11 @@ width: 800px;
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/11/26 LRT路線、交通ルール !!!</marquee></span></h1>	
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2023/03/15 リフォーム見積もり !!!</marquee></span></h1>	
 	
 
-<a href="20230320_001.PDF" data-lightbox="abc"><img src="20230320_001.PDF" alt="サンプル画像" width="900" /></a>
-<a href="20221208_003.JPG" data-lightbox="abc"><img src="20221208_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230320_001.pdf" data-lightbox="abc"><img src="20230320_001.pdf" alt="サンプル画像" width="900" /></a>
+<a href="20230320_002.pdf" data-lightbox="abc"><img src="20230320_002.pdf" alt="サンプル画像" width="900" /></a>
 
 <p>要点がわかる1分編</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aes0Y9S9jYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -137,8 +137,8 @@ width: 800px;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rdTb-WtER70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br><br><br>
 
-<a href="20221208_004.JPG" data-lightbox="abc"><img src="20221208_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20221208_005.JPG" data-lightbox="abc"><img src="20221208_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230320_003.pdf" data-lightbox="abc"><img src="20230320_003.pdf" alt="サンプル画像" width="900" /></a>
+<a href="20230320_004.pdf" data-lightbox="abc"><img src="20230320_004.pdf" alt="サンプル画像" width="900" /></a>
 	
 	
 
