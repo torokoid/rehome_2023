@@ -124,15 +124,15 @@ width: 800px;
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023/03/04 リフォーム見積もり !!!</marquee></span></h1>	
 	
 <p>東方ハウジング、鈴木さん</p>
-<iframe src="https://torokoid.github.io/rehome_2023/20230320_002.pdf"></iframe>
+<iframe width="560" height="1120" src="https://torokoid.github.io/rehome_2023/20230320_002.pdf"></iframe>
 	
 
 <p>住居時間、竹内木さん</p>
-<iframe src="https://torokoid.github.io/rehome_2023/20230320_001.pdf"></iframe>
+<iframe width="560" height="1120" src="https://torokoid.github.io/rehome_2023/20230320_001.pdf"></iframe>
 
-<iframe src="https://torokoid.github.io/rehome_2023/20230320_003.pdf"></iframe>
+<iframe width="560" height="1120" src="https://torokoid.github.io/rehome_2023/20230320_003.pdf"></iframe>
 
-<iframe src="https://torokoid.github.io/rehome_2023/20230320_004.pdf"></iframe>
+<iframe width="560" height="1120" src="https://torokoid.github.io/rehome_2023/20230320_004.pdf"></iframe>
 
 	<br><br><br><br>
 	
