@@ -128,14 +128,14 @@ width: 800px;
 	
 
 <p>住居時間、竹内木さん</p>
-<iframe src="https://torokoid.github.io/rehome_2023/20230320_001.pdf"></iframe><br>
+<iframe src="https://torokoid.github.io/rehome_2023/20230320_001.pdf"></iframe>
 
 <iframe src="https://torokoid.github.io/rehome_2023/20230320_003.pdf"></iframe>
 
 <iframe src="https://torokoid.github.io/rehome_2023/20230320_004.pdf"></iframe><br><br>
 
 	
-	<p>同じもの、表示サイズ違い</p>
+<p>同じもの、表示サイズ違い</p><br><br>
 <p>東方ハウジング、鈴木さん</p>
 <iframe src="https://torokoid.github.io/rehome_2023/20230320_002.pdf" width="80%" height="300%"><br>
 <p>住居時間、竹内木さん</p>
@@ -154,7 +154,7 @@ width: 800px;
 
 <!-- フッタ -->
 <footer>
-<span class="white">Copyright 2022/11/26 S.Hada、背景は自宅近くの紫陽花</span>
+<span class="white">Copyright 2023/103/20 S.Hada、背景は自宅近くの紫陽花</span>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
