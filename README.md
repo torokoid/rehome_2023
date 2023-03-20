@@ -127,10 +127,10 @@ width: 800px;
 
 
 <h1>各社見積一覧</h1>
-<a href="20230320_000.jpg" data-lightbox="abc"><img src="20230320_000.jpg" alt="サンプル画像" width="900" /></a><br>
+<a href="20230320_000.JPG" data-lightbox="abc"><img src="20230320_000.JPG" alt="サンプル画像" width="900" /></a><br>
 
-<a href="20230320_001.jpg" data-lightbox="abc"><img src="20230320_001.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20230320_002.jpg" data-lightbox="abc"><img src="20230320_002.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230320_001.JPG" data-lightbox="abc"><img src="20230320_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230320_002.JPG" data-lightbox="abc"><img src="20230320_002.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br>
