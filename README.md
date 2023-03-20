@@ -117,7 +117,7 @@ width: 800px;
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="lrt.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="20230320.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
