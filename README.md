@@ -122,6 +122,18 @@ width: 800px;
 
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023/03/04 リフォーム見積もり !!!</marquee></span></h1>	
+
+
+
+
+<h1>各社見積一覧</h1>
+<a href="20230320_000.jpg" data-lightbox="abc"><img src="20230320_000.jpg" alt="サンプル画像" width="900" /></a><br>
+
+<a href="20230320_001.jpg" data-lightbox="abc"><img src="20230320_001.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230320_002.jpg" data-lightbox="abc"><img src="20230320_002.jpg" alt="サンプル画像" width="900" /></a>
+
+
+<br><br><br>
 	
 <p>東方ハウジング、鈴木さん</p>
 <iframe width="700" height="1000" src="https://torokoid.github.io/rehome_2023/20230320_002.pdf"></iframe>
