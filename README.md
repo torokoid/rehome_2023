@@ -127,14 +127,14 @@ width: 800px;
 <iframe width="700" height="1000" src="https://torokoid.github.io/rehome_2023/20230320_002.pdf"></iframe>
 	
 
-<p>住居時間、竹内木さん</p>
+<p>住居時間、竹内さん</p>
 <iframe width="700" height="1000" src="https://torokoid.github.io/rehome_2023/20230320_001.pdf"></iframe>
 
 <iframe width="700" height="1000" src="https://torokoid.github.io/rehome_2023/20230320_003.pdf"></iframe>
 
 <iframe width="700" height="1000" src="https://torokoid.github.io/rehome_2023/20230320_004.pdf"></iframe>
 
-	<br><br><br><br>
+	<br><br><br><br><br><br><br><br><br><br><br><br>
 	
 <p>同じもの、表示サイズ違い</p><br><br>
 <p>東方ハウジング、鈴木さん</p>
