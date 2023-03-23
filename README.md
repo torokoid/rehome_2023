@@ -139,7 +139,7 @@ width: 800px;
 <br><br><br>
 	
 <p>東方ハウジング、鈴木さん</p>
-<a href="20230320_005.JPG" data-lightbox="abc"><img src="20230320_005.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20230320_005.jpg" data-lightbox="abc"><img src="20230320_005.jpg" alt="サンプル画像" width="450" /></a>
 <iframe width="700" height="1000" src="https://torokoid.github.io/rehome_2023/20230320_002.pdf"></iframe>
 	
 
