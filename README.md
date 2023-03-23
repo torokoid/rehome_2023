@@ -139,6 +139,7 @@ width: 800px;
 <br><br><br>
 	
 <p>東方ハウジング、鈴木さん</p>
+<a href="20230320_005.JPG" data-lightbox="abc"><img src="20230320_005.JPG" alt="サンプル画像" width="450" /></a>
 <iframe width="700" height="1000" src="https://torokoid.github.io/rehome_2023/20230320_002.pdf"></iframe>
 	
 
@@ -148,7 +149,7 @@ width: 800px;
 <iframe width="700" height="1000" src="https://torokoid.github.io/rehome_2023/20230320_003.pdf"></iframe>
 
 <iframe width="700" height="1000" src="https://torokoid.github.io/rehome_2023/20230320_004.pdf"></iframe>
-
+<!--
 	<br><br><br><br><br><br><br><br><br><br><br><br>
 	
 <p>同じもの、表示サイズ違い</p><br><br>
@@ -159,7 +160,7 @@ width: 800px;
 <iframe src="https://torokoid.github.io/rehome_2023/20230320_003.pdf" width="80%" height="300%"></iframe><br>
 <iframe src="https://torokoid.github.io/rehome_2023/20230320_004.pdf" width="80%" height="300%"></iframe><br>
 	
-
+-->
 <!--本体はここまで-->
 
 
