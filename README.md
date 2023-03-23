@@ -127,7 +127,7 @@ width: 800px;
 
 
 <h1>各社見積一覧</h1>
-<a href="20230320_000.JPG" data-lightbox="abc"><img src="20230320_000.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230320_000.png" data-lightbox="abc"><img src="20230320_000.png" alt="サンプル画像" width="900" /></a>
 <p>※アルミサイディングは、さらに広告掲載料として約55万円の特別値引き提示</p>
 
 <br><br>
