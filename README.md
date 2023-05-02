@@ -153,6 +153,9 @@ width: 800px;
 <p>費用は130万円、現金払いでした</p>
 <a href="20230502_019.JPG" data-lightbox="abc"><img src="20230502_019.JPG" alt="サンプル画像" width="900" /></a>
 
+
+
+<br><br><br><br><br><br><br><br><br>
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023/03/04 リフォーム見積もり !!!</marquee></span></h1>	
 
