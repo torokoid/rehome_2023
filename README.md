@@ -126,7 +126,7 @@ width: 800px;
 <a href="20230502_006.JPG" data-lightbox="abc"><img src="20230502_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230502_007.JPG" data-lightbox="abc"><img src="20230502_007.JPG" alt="サンプル画像" width="900" /></a>
 
-<p>塗装前の色（GooglMapsより</p>
+<p>塗装前の色（GooglMapsより）</p>
 <a href="20230502_021.JPG" data-lightbox="abc"><img src="20230502_021.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20230502_022.JPG" data-lightbox="abc"><img src="20230502_022.JPG" alt="サンプル画像" width="450" /></a>
 
