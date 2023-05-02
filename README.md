@@ -122,18 +122,16 @@ width: 800px;
 
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023/05/01 外壁塗装完成 !!!</marquee></span></h1>	
-
-
-
-<a href="20230502_001.JPG" data-lightbox="abc"><img src="20230502_001.JPG" alt="サンプル画像" width="900" /></a>
-
-<p>工事中</p>
-<a href="20230502_002.JPG" data-lightbox="abc"><img src="20230502_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230502_003.JPG" data-lightbox="abc"><img src="20230502_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230502_004.JPG" data-lightbox="abc"><img src="20230502_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230502_005.JPG" data-lightbox="abc"><img src="20230502_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230502_006.JPG" data-lightbox="abc"><img src="20230502_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230502_007.JPG" data-lightbox="abc"><img src="20230502_007.JPG" alt="サンプル画像" width="900" /></a>
+
+
+<p>工事中</p>
+<a href="20230502_001.JPG" data-lightbox="abc"><img src="20230502_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230502_002.JPG" data-lightbox="abc"><img src="20230502_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230502_003.JPG" data-lightbox="abc"><img src="20230502_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230502_004.JPG" data-lightbox="abc"><img src="20230502_004.JPG" alt="サンプル画像" width="900" /></a>
 
 <p>足場の上から周囲の光景撮影</p>
 <a href="20230502_008.JPG" data-lightbox="abc"><img src="20230502_008.JPG" alt="サンプル画像" width="900" /></a>
