@@ -157,6 +157,8 @@ width: 800px;
 <a href="20230502_025.JPG" data-lightbox="abc"><img src="20230502_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230502_026.JPG" data-lightbox="abc"><img src="20230502_026.JPG" alt="サンプル画像" width="900" /></a>
 
+<p>鈴木さんから作業開始のお知らせ</p>
+<a href="20230502_027.JPG" data-lightbox="abc"><img src="20230502_027.JPG" alt="サンプル画像" width="900" /></a>
 
 <p>費用は130万円、現金払いでした</p>
 <a href="20230502_019.JPG" data-lightbox="abc"><img src="20230502_019.JPG" alt="サンプル画像" width="900" /></a>
