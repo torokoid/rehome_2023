@@ -137,7 +137,6 @@ width: 800px;
 <a href="20230502_004.JPG" data-lightbox="abc"><img src="20230502_004.JPG" alt="サンプル画像" width="900" /></a>
 
 <p>足場の上から周囲の光景撮影</p>
-<a href="20230502_008.JPG" data-lightbox="abc"><img src="20230502_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230502_009.JPG" data-lightbox="abc"><img src="20230502_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230502_010.JPG" data-lightbox="abc"><img src="20230502_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230502_011.JPG" data-lightbox="abc"><img src="20230502_011.JPG" alt="サンプル画像" width="900" /></a>
@@ -145,6 +144,7 @@ width: 800px;
 <a href="20230502_013.JPG" data-lightbox="abc"><img src="20230502_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230502_014.JPG" data-lightbox="abc"><img src="20230502_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230502_015.JPG" data-lightbox="abc"><img src="20230502_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230502_008.JPG" data-lightbox="abc"><img src="20230502_008.JPG" alt="サンプル画像" width="900" /></a>
 
 <p>塗装は完了、足場撤去待ち</p>
 <a href="20230502_016.JPG" data-lightbox="abc"><img src="20230502_016.JPG" alt="サンプル画像" width="900" /></a>
